@@ -18,6 +18,9 @@
     "url": "https://github.com/DanielAlongE/types-chakra-ui-vue/issues"
   },
   "homepage": "https://github.com/DanielAlongE/types-chakra-ui-vue#readme",
+  "peerDependencies": {
+    "typescript": ">=4.0.0"
+  },
   "devDependencies": {
     "typescript": "^4.0.2"
   }
