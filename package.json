@@ -1,5 +1,5 @@
 {
-  "name": "types-chakra-ui-vue",
+  "name": "@types/chakra-ui-vue",
   "version": "1.0.0",
   "description": "Typescript typings for Chakra-ui/vue",
   "main": "index.js",
