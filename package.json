@@ -3,6 +3,7 @@
   "version": "1.0.0",
   "description": "Typescript typings for Chakra-ui/vue",
   "main": "index.js",
+  "typings": "index.d.ts",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
@@ -16,5 +17,8 @@
   "bugs": {
     "url": "https://github.com/DanielAlongE/types-chakra-ui-vue/issues"
   },
-  "homepage": "https://github.com/DanielAlongE/types-chakra-ui-vue#readme"
+  "homepage": "https://github.com/DanielAlongE/types-chakra-ui-vue#readme",
+  "devDependencies": {
+    "typescript": "^4.0.2"
+  }
 }
