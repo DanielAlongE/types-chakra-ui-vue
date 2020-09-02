@@ -1,34 +1,8 @@
 {
-  "name": "@types/chakra-ui-vue",
-  "version": "1.0.0",
-  "description": "Typescript typings for Chakra-ui/vue",
-  "typings": "index.d.ts",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/DanielAlongE/types-chakra-ui-vue.git"
-  },
-  "keywords": [],
-  "author": "",
-  "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/DanielAlongE/types-chakra-ui-vue/issues"
-  },
-  "homepage": "https://github.com/DanielAlongE/types-chakra-ui-vue#readme",
-  "peerDependencies": {
-    "typescript": ">=4.0.2",
-    "vue": "^2.6.11"
-  },
-  "devDependencies": {
-    "dts-gen": "^0.6.0",
-    "typescript": "^4.0.2"
-  },
-  "publishConfig": {
-    "access": "public"
-  },
+  "keywords": ["chakra-ui", "vue"],
+  "private": true,
   "dependencies": {
-    "@chakra-ui/vue": "^0.6.1"
+    "@chakra-ui/vue": "^0.6.1",
+    "vue": "^2.6.11"
   }
 }
