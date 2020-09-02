@@ -22,9 +22,13 @@
     "vue": "^2.6.11"
   },
   "devDependencies": {
+    "dts-gen": "^0.6.0",
     "typescript": "^4.0.2"
   },
   "publishConfig": {
     "access": "public"
+  },
+  "dependencies": {
+    "@chakra-ui/vue": "^0.6.1"
   }
 }
