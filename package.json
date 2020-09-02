@@ -1,8 +1,10 @@
 {
-  "keywords": ["chakra-ui", "vue"],
+  "keywords": [
+    "chakra-ui",
+    "vue"
+  ],
   "private": true,
   "dependencies": {
-    "@chakra-ui/vue": "^0.6.1",
     "vue": "^2.6.11"
   }
 }
